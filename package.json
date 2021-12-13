@@ -1,0 +1,25 @@
+{
+  "name": "brice",
+  "version": "1.0.0",
+  "description": "C'est un repertoire test",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workstation225/React-JS-Website.git"
+  },
+  "author": "Degan Akomonla Brice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Workstation225/React-JS-Website/issues"
+  },
+  "homepage": "https://github.com/Workstation225/React-JS-Website#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
